@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4409d2f9-8359-4a08-b9ce-d1f91ab7efad" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/ad/ad2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/ad/ad3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/BtnDarkGreenBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/BtnGreenBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/ListStyles/listClean.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/ListStyles/listCorrect.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/ListStyles/listNeutral.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/ListStyles/listWrong.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/RED/BigcommentIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/RED/MainHeadlineBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/RED/SmallHeadlineBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/RED/commentIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/RED/dropdown_index.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/RED/dropdown_show.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/commentdefaultIcon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/footerBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/jackBlackUser.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/listStrokes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/logo1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/logo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/mainBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/mainNavBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/notepadBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/socialIcons/down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/socialIcons/tel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/socialIcons/zixun.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/tapeHorizontal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/tapeLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/tapeRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131016/1-1310161623050-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131016/1-1310161623260-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131122/1-1311221550070-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131122/1-1311221554090-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131122/1-131122155H20-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131122/1-1311221602360-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131122/1-1311221631010-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131122/1-131122163119-50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131122/1-131122163119.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131122/1-131122163120-50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131122/1-131122163120.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131122/1-131122163121-50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131122/1-131122163121-51.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131122/1-131122163121.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131122/1-131122163122-50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131122/1-131122163122.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131123/1-1311231039450-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131123/1-131123103A70-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131123/1-131123131I40-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131123/1-131123131S30-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131129/1-1311291013030-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131129/1-1311291015020-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131129/1-131129101I70-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131129/1-1311291021000-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131129/1-1311291A355152.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131129/1-1311291HS80-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131129/1-1311291I3180-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131129/1-1311291I6350-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131129/1-13112Z94Q30-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131129/1-13112Z950420-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131129/1-13112Z952300-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131203/1-1312031441260-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131203/1-131203144201D4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131206/1-1312061A1270-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131206/1-1312061A2550-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131206/1-1312061A3150-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131206/1-1312061A3330-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/ad/ad2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/ad/ad3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/BtnDarkGreenBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/BtnGreenBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/ListStyles/listClean.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/ListStyles/listCorrect.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/ListStyles/listNeutral.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/ListStyles/listWrong.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/RED/BigcommentIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/RED/MainHeadlineBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/RED/SmallHeadlineBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/RED/commentIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/RED/dropdown_index.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/RED/dropdown_show.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/commentdefaultIcon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/footerBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/jackBlackUser.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/listStrokes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/logo1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/logo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/mainBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/mainNavBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/notepadBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/socialIcons/down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/socialIcons/tel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/socialIcons/zixun.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/tapeHorizontal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/tapeLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/tapeRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131016/1-1310161623050-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131016/1-1310161623260-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131122/1-1311221550070-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131122/1-1311221554090-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131122/1-131122155H20-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131122/1-1311221602360-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131122/1-1311221631010-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131122/1-131122163119-50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131122/1-131122163119.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131122/1-131122163120-50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131122/1-131122163120.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131122/1-131122163121-50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131122/1-131122163121-51.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131122/1-131122163121.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131122/1-131122163122-50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131122/1-131122163122.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131123/1-1311231039450-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131123/1-131123103A70-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131123/1-131123131I40-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131123/1-131123131S30-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131129/1-1311291013030-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131129/1-1311291015020-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131129/1-131129101I70-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131129/1-1311291021000-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131129/1-1311291A355152.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131129/1-1311291HS80-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131129/1-1311291I3180-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131129/1-1311291I6350-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131129/1-13112Z94Q30-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131129/1-13112Z950420-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131129/1-13112Z952300-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131203/1-1312031441260-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131203/1-131203144201D4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131206/1-1312061A1270-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131206/1-1312061A2550-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131206/1-1312061A3150-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131206/1-1312061A3330-L.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/App.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/changjing.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/cjcontent.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/error.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/footbar.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/footer.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/hdcontent.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/home.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/huodong.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/loading/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/loading/loading.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/nav.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/navbar.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/paicontent.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/pinpai.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/yecontent.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/yuyue.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/zpcontent.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/zuopin.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/data/index.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/router.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/store/actions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/store/getters.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/store/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/store/mutations.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/store/state.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/store/types.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/css/mainCssRed.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/css/源码之家说明.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/js/MainJS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/js/flexslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/js/klass.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/changjing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/huodong.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/pinpai.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/css/mainCssRed.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/js/MainJS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/js/flexslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/js/klass.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/yuyue.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/zuopin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue说明.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webpack.config.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>index</find>
+      <find>href</find>
+      <find>zp</find>
+      <find>&quot;</find>
+      <find>src</find>
+      <find>RBNShowMenu</find>
+      <find>TouchGallery</find>
+      <find>MainNav</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/src/component/footbar.vue" />
+        <option value="$PROJECT_DIR$/template/zuopin.html" />
+        <option value="$PROJECT_DIR$/src/component/footer.vue" />
+        <option value="$PROJECT_DIR$/template/changjing.html" />
+        <option value="$PROJECT_DIR$/template/huodong.html" />
+        <option value="$PROJECT_DIR$/template/pinpai.html" />
+        <option value="$PROJECT_DIR$/template/yuyue.html" />
+        <option value="$PROJECT_DIR$/src/component/error.vue" />
+        <option value="$PROJECT_DIR$/template/index.html" />
+        <option value="$PROJECT_DIR$/src/component/huodong.vue" />
+        <option value="$PROJECT_DIR$/src/component/pinpai.vue" />
+        <option value="$PROJECT_DIR$/src/component/yuyue.vue" />
+        <option value="$PROJECT_DIR$/src/component/zuopin.vue" />
+        <option value="$PROJECT_DIR$/src/component/changjing.vue" />
+        <option value="$PROJECT_DIR$/src/router.config.js" />
+        <option value="$PROJECT_DIR$/src/component/nav.vue" />
+        <option value="$PROJECT_DIR$/src/store/state.js" />
+        <option value="$PROJECT_DIR$/src/store/type.js" />
+        <option value="$PROJECT_DIR$/src/store/action.js" />
+        <option value="$PROJECT_DIR$/src/store/mutations.js" />
+        <option value="$PROJECT_DIR$/src/store/index.js" />
+        <option value="$PROJECT_DIR$/src/store/getters.js" />
+        <option value="$PROJECT_DIR$/src/store/actions.js" />
+        <option value="$PROJECT_DIR$/src/store/types.js" />
+        <option value="$PROJECT_DIR$/src/component/loading/index.js" />
+        <option value="$PROJECT_DIR$/src/main.js" />
+        <option value="$PROJECT_DIR$/src/data/follow.data" />
+        <option value="$PROJECT_DIR$/src/App.vue" />
+        <option value="$PROJECT_DIR$/src/component/navbar.vue" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/component/hdcontent.vue" />
+        <option value="$PROJECT_DIR$/src/component/yecontent.vue" />
+        <option value="$PROJECT_DIR$/src/data/index.data" />
+        <option value="$PROJECT_DIR$/src/component/home.vue" />
+        <option value="$PROJECT_DIR$/src/component/zpcontent.vue" />
+        <option value="$PROJECT_DIR$/src/component/paicontent.vue" />
+        <option value="$PROJECT_DIR$/1.html" />
+        <option value="$PROJECT_DIR$/src/component/cjcontent.vue" />
+        <option value="$PROJECT_DIR$/src/data/index.json" />
+        <option value="$PROJECT_DIR$/src/component/loading/loading.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="554" />
+    <option name="y" value="17" />
+    <option name="width" value="833" />
+    <option name="height" value="689" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vueobj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vueobj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vueobj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vueobj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vueobj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vueobj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m2013" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vueobj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vueobj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m2013" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vueobj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vueobj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="m2013" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/newsApp1" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\vueobj\src\data" />
+      <recent name="E:\vueobj\src\component" />
+      <recent name="E:\vueobj\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\vueobj\src\component" />
+      <recent name="E:\vueobj\src\templets\m2013" />
+      <recent name="E:\vueobj\src\templets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4409d2f9-8359-4a08-b9ce-d1f91ab7efad" name="Default" comment="" />
+      <created>1493270346927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1493270346927</updated>
+      <workItem from="1493270348551" duration="9351000" />
+      <workItem from="1493279828772" duration="21583000" />
+      <workItem from="1493689358254" duration="143000" />
+      <workItem from="1494913303942" duration="4808000" />
+      <workItem from="1494942725158" duration="388000" />
+      <workItem from="1494982997300" duration="2066000" />
+      <workItem from="1494990173424" duration="1387000" />
+      <workItem from="1495003057499" duration="8213000" />
+      <workItem from="1495069638309" duration="579000" />
+      <workItem from="1495071515413" duration="5778000" />
+      <workItem from="1495095207478" duration="1644000" />
+      <workItem from="1495425014030" duration="1886000" />
+      <workItem from="1495439442803" duration="320000" />
+      <workItem from="1495598769899" duration="159000" />
+      <workItem from="1495630706087" duration="82000" />
+      <workItem from="1495684220191" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="58410000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="554" y="17" width="833" height="689" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20754717" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3267974" sideWeight="0.515625" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2967626" sideWeight="0.484375" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/App.vue" />
+    <entry file="file://$PROJECT_DIR$/src/component/huodong.vue" />
+    <entry file="file://$PROJECT_DIR$/src/templets/m2013/css/reset.css" />
+    <entry file="file://$PROJECT_DIR$/webpack.config.js" />
+    <entry file="file://$PROJECT_DIR$/src/component/nav" />
+    <entry file="file://$PROJECT_DIR$/src/component/footbar.vue" />
+    <entry file="file://$PROJECT_DIR$/src/component/footer.vue" />
+    <entry file="file://$PROJECT_DIR$/template/changjing.html" />
+    <entry file="file://$PROJECT_DIR$/template/huodong.html" />
+    <entry file="file://$PROJECT_DIR$/template/zhengwen.html" />
+    <entry file="file://$PROJECT_DIR$/template/pinpai.html" />
+    <entry file="file://$PROJECT_DIR$/template/yuyue.html" />
+    <entry file="file://$PROJECT_DIR$/template/zuopin.html" />
+    <entry file="file://$PROJECT_DIR$/src/component/error.vue" />
+    <entry file="file://$PROJECT_DIR$/src/component/yuyue.vue" />
+    <entry file="file://$PROJECT_DIR$/src/component/pinpai.vue" />
+    <entry file="file://$PROJECT_DIR$/src/component/huodong.vue" />
+    <entry file="file://$PROJECT_DIR$/template/index.html" />
+    <entry file="file://$PROJECT_DIR$/src/router.config.js" />
+    <entry file="file://$PROJECT_DIR$/src/store/types.js" />
+    <entry file="file://$PROJECT_DIR$/src/store/getters.js" />
+    <entry file="file://$PROJECT_DIR$/src/store/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/store/mutations.js" />
+    <entry file="file://$PROJECT_DIR$/src/store/state.js" />
+    <entry file="file://$PROJECT_DIR$/src/store/actions.js" />
+    <entry file="file://$PROJECT_DIR$/src/data/follow.data" />
+    <entry file="file://$PROJECT_DIR$/src/main.js" />
+    <entry file="file://$PROJECT_DIR$/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/loading/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/hdcontent.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/yecontent.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/data.data" />
+    <entry file="file://$PROJECT_DIR$/src/data/index.data" />
+    <entry file="file://$PROJECT_DIR$/src/component/zuopin.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/paicontent.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="75" column="16" lean-forward="true" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.html" />
+    <entry file="file://$PROJECT_DIR$/src/component/changjing.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/cjcontent.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="70" column="10" lean-forward="false" selection-start-line="70" selection-start-column="10" selection-end-line="70" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/loading/loading.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/index.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="27" column="383" lean-forward="false" selection-start-line="27" selection-start-column="383" selection-end-line="27" selection-end-column="383" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templets/m2013/js/flexslider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templets/m2013/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templets/m2013/js/klass.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/nav.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/navbar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="37" column="37" lean-forward="true" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="43" column="41" lean-forward="false" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templets/m2013/js/MainJS.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="34" column="11" lean-forward="false" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/zpcontent.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templets/m2013/css/mainCssRed.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-582">
+          <caret line="132" column="8" lean-forward="false" selection-start-line="132" selection-start-column="1" selection-end-line="132" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

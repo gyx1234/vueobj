@@ -1,0 +1,38 @@
+
+环境搭建
+vue init webpack-simple 
+npm install 
+
+
+-src
+   -component
+	-home.vue/navbar/footber.vue
+	-nav.vue/foter.vue/  除首页以外公用的组件
+	-zuopin.vue/zpcontent.vue
+	-chengjing.vue/cjcontent.vue
+	-huodong.vue/hdcontent.vue
+	-pinpai.vue/paicontent.vue
+	-yuyue.vue/yecontent.vue
+   -templets 公共文件
+   -uploads
+   -data
+   -store
+   
+   App.vue
+   main.js
+   router.config.js
+index.html
+package.json
+webpack.config.js
+
+
+拆成组件
+
+
+路由配置，nav设置路由
+
+
+数据交互(axios/vue-resource/fetch)
+安装: npm install axios -D
+
+作品页、场景页loading，状态管理
