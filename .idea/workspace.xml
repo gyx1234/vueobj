@@ -2,190 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4409d2f9-8359-4a08-b9ce-d1f91ab7efad" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/ad/ad2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/ad/ad3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/BtnDarkGreenBg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/BtnGreenBg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/ListStyles/listClean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/ListStyles/listCorrect.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/ListStyles/listNeutral.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/ListStyles/listWrong.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/RED/BigcommentIcon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/RED/MainHeadlineBg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/RED/SmallHeadlineBg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/RED/commentIcon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/RED/dropdown_index.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/RED/dropdown_show.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/commentdefaultIcon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/footerBg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/jackBlackUser.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/listStrokes.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/logo1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/logo2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/mainBg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/mainNavBg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/notepadBg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/socialIcons/down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/socialIcons/tel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/socialIcons/zixun.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/tapeHorizontal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/tapeLeft.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/img/tapeRight.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131016/1-1310161623050-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131016/1-1310161623260-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131122/1-1311221550070-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131122/1-1311221554090-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131122/1-131122155H20-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131122/1-1311221602360-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131122/1-1311221631010-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131122/1-131122163119-50.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131122/1-131122163119.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131122/1-131122163120-50.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131122/1-131122163120.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131122/1-131122163121-50.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131122/1-131122163121-51.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131122/1-131122163121.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131122/1-131122163122-50.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131122/1-131122163122.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131123/1-1311231039450-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131123/1-131123103A70-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131123/1-131123131I40-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131123/1-131123131S30-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131129/1-1311291013030-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131129/1-1311291015020-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131129/1-131129101I70-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131129/1-1311291021000-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131129/1-1311291A355152.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131129/1-1311291HS80-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131129/1-1311291I3180-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131129/1-1311291I6350-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131129/1-13112Z94Q30-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131129/1-13112Z950420-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131129/1-13112Z952300-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131203/1-1312031441260-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131203/1-131203144201D4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131206/1-1312061A1270-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131206/1-1312061A2550-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131206/1-1312061A3150-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uploads/allimg/131206/1-1312061A3330-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/ad/ad2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/ad/ad3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/BtnDarkGreenBg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/BtnGreenBg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/ListStyles/listClean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/ListStyles/listCorrect.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/ListStyles/listNeutral.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/ListStyles/listWrong.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/RED/BigcommentIcon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/RED/MainHeadlineBg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/RED/SmallHeadlineBg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/RED/commentIcon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/RED/dropdown_index.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/RED/dropdown_show.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/commentdefaultIcon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/footerBg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/jackBlackUser.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/listStrokes.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/logo1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/logo2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/mainBg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/mainNavBg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/notepadBg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/socialIcons/down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/socialIcons/tel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/socialIcons/zixun.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/tapeHorizontal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/tapeLeft.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/img/tapeRight.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131016/1-1310161623050-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131016/1-1310161623260-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131122/1-1311221550070-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131122/1-1311221554090-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131122/1-131122155H20-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131122/1-1311221602360-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131122/1-1311221631010-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131122/1-131122163119-50.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131122/1-131122163119.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131122/1-131122163120-50.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131122/1-131122163120.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131122/1-131122163121-50.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131122/1-131122163121-51.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131122/1-131122163121.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131122/1-131122163122-50.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131122/1-131122163122.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131123/1-1311231039450-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131123/1-131123103A70-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131123/1-131123131I40-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131123/1-131123131S30-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131129/1-1311291013030-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131129/1-1311291015020-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131129/1-131129101I70-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131129/1-1311291021000-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131129/1-1311291A355152.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131129/1-1311291HS80-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131129/1-1311291I3180-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131129/1-1311291I6350-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131129/1-13112Z94Q30-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131129/1-13112Z950420-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131129/1-13112Z952300-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131203/1-1312031441260-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131203/1-131203144201D4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131206/1-1312061A1270-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131206/1-1312061A2550-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131206/1-1312061A3150-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/uploads/allimg/131206/1-1312061A3330-L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/App.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/changjing.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/cjcontent.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/error.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/footbar.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/footer.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/hdcontent.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/home.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/huodong.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/loading/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/loading/loading.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/nav.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/navbar.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/paicontent.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/pinpai.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/yecontent.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/yuyue.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/zpcontent.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/component/zuopin.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/data/index.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/router.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/store/actions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/store/getters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/store/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/store/mutations.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/store/state.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/store/types.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/css/mainCssRed.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/css/源码之家说明.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/js/MainJS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/js/flexslider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templets/m2013/js/klass.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/changjing.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/huodong.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/pinpai.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/css/mainCssRed.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/js/MainJS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/js/flexslider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/templets/m2013/js/klass.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/yuyue.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/zuopin.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue说明.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webpack.config.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vueObj/.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vueObj/README.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -290,10 +109,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="554" />
-    <option name="y" value="17" />
-    <option name="width" value="833" />
-    <option name="height" value="689" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -323,94 +142,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vueobj" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vueobj" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vueobj" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vueobj" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="m2013" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vueobj" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vueobj" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="m2013" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vueobj" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vueobj" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="m2013" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -419,7 +150,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/newsApp1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="js.eslint.eslintPackage" value="" />
@@ -527,22 +258,23 @@
       <workItem from="1495598769899" duration="159000" />
       <workItem from="1495630706087" duration="82000" />
       <workItem from="1495684220191" duration="23000" />
+      <workItem from="1496138941815" duration="280000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58410000" />
+    <option name="totallyTimeSpent" value="58690000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="554" y="17" width="833" height="689" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20754717" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20684524" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3267974" sideWeight="0.515625" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2967626" sideWeight="0.484375" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29459903" sideWeight="0.484375" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
